@@ -10,7 +10,7 @@ Original file is located at
 # =====================================================
 # CodeAlpha Internship
 # Task 1: Hangman Game
-# Developed by: Your Name
+# Developed by: Imran Ali Memon
 # Description:
 # A simple text-based Hangman game where the player
 # guesses letters to find the hidden word.
